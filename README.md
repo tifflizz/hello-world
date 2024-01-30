@@ -1,3 +1,4 @@
-# hello-world
-#Hello, my name is Tiffany Morales.
-#I am a junior at University of Washington Tacoma studying Computer Science. 
+- 👋 Hi, I’m @tifflizz
+- 🌱 I’m currently in school for Computer Science.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I really like cats!
